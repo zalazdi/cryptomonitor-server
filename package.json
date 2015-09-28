@@ -1,0 +1,23 @@
+{
+  "name": "Crypto-MonitorServer",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cli-color": "*",
+    "mongodb": "*",
+    "socket.io": "*",
+    
+    "cryptsy-api": "*",
+    "vircurex": "*",
+    "bter": "*",
+    "kraken-api": "*",
+    "mintpaljs": "*",
+
+    "coinedup": "*",
+    "anxhk": "*",
+    "poloniex": "*"
+  }
+}
